@@ -1,12 +1,5 @@
 # AI-Based Navigation and Sensor Data Error Minimization for Aerospace Attitude Estimation
 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
-[![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://python.org/)
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-Ready-yellow.svg)](https://colab.research.google.com/)
-[![DRDO Technical Evaluation](https://img.shields.io/badge/DRDO-GNC%20Avionics-red.svg)]()
-[![Documentation](https://img.shields.io/badge/Reports-PDF%20%7C%20Word-blueviolet.svg)](reports/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 An advanced deep learning framework developed for **9-Degrees-of-Freedom (9-DoF) MEMS Inertial Measurement Unit (IMU) attitude estimation and sensor error minimization** across 6 authentic flight datasets. This project documents the complete research evolution: from foundational inertial sensing physics and preliminary baseline LSTM evaluations to a systematic **14-experiment deep learning campaign across 3 evolutionary phases**.
 
 ---
@@ -236,7 +229,6 @@ The winning decoupled Bi-LSTM model (Experiment 10) was benchmarked for embedded
 
 The comprehensive 73-page technical monograph is available in both Word and PDF formats inside [`reports/`](reports/):
 * **Master PDF Report:** [`reports/DRDO_Attitude_Estimation_Complete_Project_Report.pdf`](reports/DRDO_Attitude_Estimation_Complete_Project_Report.pdf) (73 pages, 54.2 MB, defense publication layout with running headers/footers, unclipped tables, and all 98 high-res trajectory tracking plots).
-* **Master Word Report:** [`reports/DRDO_Attitude_Estimation_Complete_Project_Report.docx`](reports/DRDO_Attitude_Estimation_Complete_Project_Report.docx) (46.7 MB, fully formatted and editable).
 
 ---
 
@@ -244,5 +236,4 @@ The comprehensive 73-page technical monograph is available in both Word and PDF 
 
 * **Student / Primary Researcher:** Uma Maheswari Rapolu
 * **Project Title:** AI-Based Navigation and Sensor Data Error Minimization for Aerospace Attitude Estimation
-* **Affiliation & Organization:** Defence Research & Development Organisation (DRDO) Technical Evaluation — Aerospace Guidance, Navigation, and Control (GNC) Division
 * **Publication Date:** September 2026
