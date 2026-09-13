@@ -1,0 +1,482 @@
+[
+  {
+    "Dataset": "D1.xlsx",
+    "Experiment": "Exp1_Baseline_Fixed",
+    "RMSE_Phi": 0.063358,
+    "RMSE_Theta": 0.046225,
+    "RMSE_Psi": 0.158222,
+    "Avg_RMSE": 0.089268,
+    "Time_sec": 21.1,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D1.xlsx",
+    "Experiment": "Exp2_Hyperparam_Tuned",
+    "RMSE_Phi": 0.080133,
+    "RMSE_Theta": 0.065323,
+    "RMSE_Psi": 0.172081,
+    "Avg_RMSE": 0.105846,
+    "Time_sec": 13.2,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D1.xlsx",
+    "Experiment": "Exp3_Deeper_Arch",
+    "RMSE_Phi": 0.071757,
+    "RMSE_Theta": 0.081379,
+    "RMSE_Psi": 0.183129,
+    "Avg_RMSE": 0.112088,
+    "Time_sec": 24.5,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D1.xlsx",
+    "Experiment": "Exp4_Bidirectional",
+    "RMSE_Phi": 0.070152,
+    "RMSE_Theta": 0.052407,
+    "RMSE_Psi": 0.171066,
+    "Avg_RMSE": 0.097875,
+    "Time_sec": 16.0,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D1.xlsx",
+    "Experiment": "Exp5_Output_Normalization",
+    "RMSE_Phi": 0.071058,
+    "RMSE_Theta": 0.055184,
+    "RMSE_Psi": 0.095416,
+    "Avg_RMSE": 0.073886,
+    "Time_sec": 14.2,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D1.xlsx",
+    "Experiment": "Exp6_Sliding_Window",
+    "RMSE_Phi": 0.050376,
+    "RMSE_Theta": 0.04325,
+    "RMSE_Psi": 0.143025,
+    "Avg_RMSE": 0.078884,
+    "Time_sec": 30.7,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D1.xlsx",
+    "Experiment": "Exp7_Combined_Best",
+    "RMSE_Phi": 0.03719,
+    "RMSE_Theta": 0.031305,
+    "RMSE_Psi": 0.113315,
+    "Avg_RMSE": 0.060603,
+    "Time_sec": 212.5,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D1.xlsx",
+    "Experiment": "Exp8_BiLSTM_Dense",
+    "RMSE_Phi": 0.04874,
+    "RMSE_Theta": 0.034483,
+    "RMSE_Psi": 0.097229,
+    "Avg_RMSE": 0.060151,
+    "Time_sec": 193.3,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D2.xlsx",
+    "Experiment": "Exp1_Baseline_Fixed",
+    "RMSE_Phi": 0.064527,
+    "RMSE_Theta": 0.063848,
+    "RMSE_Psi": 0.162073,
+    "Avg_RMSE": 0.096816,
+    "Time_sec": 18.0,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D2.xlsx",
+    "Experiment": "Exp2_Hyperparam_Tuned",
+    "RMSE_Phi": 0.079145,
+    "RMSE_Theta": 0.07221,
+    "RMSE_Psi": 0.199114,
+    "Avg_RMSE": 0.116823,
+    "Time_sec": 15.0,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D2.xlsx",
+    "Experiment": "Exp3_Deeper_Arch",
+    "RMSE_Phi": 0.062543,
+    "RMSE_Theta": 0.085858,
+    "RMSE_Psi": 0.182949,
+    "Avg_RMSE": 0.11045,
+    "Time_sec": 20.8,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D2.xlsx",
+    "Experiment": "Exp4_Bidirectional",
+    "RMSE_Phi": 0.089246,
+    "RMSE_Theta": 0.056668,
+    "RMSE_Psi": 0.143042,
+    "Avg_RMSE": 0.096319,
+    "Time_sec": 13.8,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D2.xlsx",
+    "Experiment": "Exp5_Output_Normalization",
+    "RMSE_Phi": 0.063367,
+    "RMSE_Theta": 0.042295,
+    "RMSE_Psi": 0.077796,
+    "Avg_RMSE": 0.061153,
+    "Time_sec": 11.9,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D2.xlsx",
+    "Experiment": "Exp6_Sliding_Window",
+    "RMSE_Phi": 0.061305,
+    "RMSE_Theta": 0.059277,
+    "RMSE_Psi": 0.127428,
+    "Avg_RMSE": 0.08267,
+    "Time_sec": 29.5,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D2.xlsx",
+    "Experiment": "Exp7_Combined_Best",
+    "RMSE_Phi": 0.038948,
+    "RMSE_Theta": 0.023363,
+    "RMSE_Psi": 0.052465,
+    "Avg_RMSE": 0.038258,
+    "Time_sec": 122.4,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D2.xlsx",
+    "Experiment": "Exp8_BiLSTM_Dense",
+    "RMSE_Phi": 0.025849,
+    "RMSE_Theta": 0.022355,
+    "RMSE_Psi": 0.047647,
+    "Avg_RMSE": 0.03195,
+    "Time_sec": 288.2,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D3.xlsx",
+    "Experiment": "Exp1_Baseline_Fixed",
+    "RMSE_Phi": 0.06292,
+    "RMSE_Theta": 0.046175,
+    "RMSE_Psi": 0.078575,
+    "Avg_RMSE": 0.062557,
+    "Time_sec": 42.7,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D3.xlsx",
+    "Experiment": "Exp2_Hyperparam_Tuned",
+    "RMSE_Phi": 0.098927,
+    "RMSE_Theta": 0.070386,
+    "RMSE_Psi": 0.116441,
+    "Avg_RMSE": 0.095251,
+    "Time_sec": 31.3,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D3.xlsx",
+    "Experiment": "Exp3_Deeper_Arch",
+    "RMSE_Phi": 0.063667,
+    "RMSE_Theta": 0.059726,
+    "RMSE_Psi": 0.097892,
+    "Avg_RMSE": 0.073762,
+    "Time_sec": 51.3,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D3.xlsx",
+    "Experiment": "Exp4_Bidirectional",
+    "RMSE_Phi": 0.039021,
+    "RMSE_Theta": 0.026712,
+    "RMSE_Psi": 0.05562,
+    "Avg_RMSE": 0.040451,
+    "Time_sec": 36.9,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D3.xlsx",
+    "Experiment": "Exp5_Output_Normalization",
+    "RMSE_Phi": 0.077759,
+    "RMSE_Theta": 0.04304,
+    "RMSE_Psi": 0.093402,
+    "Avg_RMSE": 0.0714,
+    "Time_sec": 31.0,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D3.xlsx",
+    "Experiment": "Exp6_Sliding_Window",
+    "RMSE_Phi": 0.059395,
+    "RMSE_Theta": 0.03393,
+    "RMSE_Psi": 0.04966,
+    "Avg_RMSE": 0.047662,
+    "Time_sec": 38.1,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D3.xlsx",
+    "Experiment": "Exp7_Combined_Best",
+    "RMSE_Phi": 0.044571,
+    "RMSE_Theta": 0.03639,
+    "RMSE_Psi": 0.103238,
+    "Avg_RMSE": 0.0614,
+    "Time_sec": 72.8,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D3.xlsx",
+    "Experiment": "Exp8_BiLSTM_Dense",
+    "RMSE_Phi": 0.042167,
+    "RMSE_Theta": 0.025479,
+    "RMSE_Psi": 0.085825,
+    "Avg_RMSE": 0.051157,
+    "Time_sec": 237.5,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D4.xlsx",
+    "Experiment": "Exp1_Baseline_Fixed",
+    "RMSE_Phi": 0.231333,
+    "RMSE_Theta": 0.03346,
+    "RMSE_Psi": 0.290551,
+    "Avg_RMSE": 0.185115,
+    "Time_sec": 19.6,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D4.xlsx",
+    "Experiment": "Exp2_Hyperparam_Tuned",
+    "RMSE_Phi": 0.323659,
+    "RMSE_Theta": 0.039523,
+    "RMSE_Psi": 0.324181,
+    "Avg_RMSE": 0.229121,
+    "Time_sec": 15.0,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D4.xlsx",
+    "Experiment": "Exp3_Deeper_Arch",
+    "RMSE_Phi": 0.24458,
+    "RMSE_Theta": 0.039432,
+    "RMSE_Psi": 0.36541,
+    "Avg_RMSE": 0.216474,
+    "Time_sec": 25.5,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D4.xlsx",
+    "Experiment": "Exp4_Bidirectional",
+    "RMSE_Phi": 0.283978,
+    "RMSE_Theta": 0.04268,
+    "RMSE_Psi": 0.302849,
+    "Avg_RMSE": 0.209836,
+    "Time_sec": 16.5,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D4.xlsx",
+    "Experiment": "Exp5_Output_Normalization",
+    "RMSE_Phi": 0.236808,
+    "RMSE_Theta": 0.039818,
+    "RMSE_Psi": 0.280926,
+    "Avg_RMSE": 0.185851,
+    "Time_sec": 13.9,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D4.xlsx",
+    "Experiment": "Exp6_Sliding_Window",
+    "RMSE_Phi": 0.285632,
+    "RMSE_Theta": 0.055436,
+    "RMSE_Psi": 0.37206,
+    "Avg_RMSE": 0.237709,
+    "Time_sec": 27.8,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D4.xlsx",
+    "Experiment": "Exp7_Combined_Best",
+    "RMSE_Phi": 0.346452,
+    "RMSE_Theta": 0.032188,
+    "RMSE_Psi": 0.340104,
+    "Avg_RMSE": 0.239581,
+    "Time_sec": 133.7,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D4.xlsx",
+    "Experiment": "Exp8_BiLSTM_Dense",
+    "RMSE_Phi": 0.344683,
+    "RMSE_Theta": 0.033475,
+    "RMSE_Psi": 0.325214,
+    "Avg_RMSE": 0.234458,
+    "Time_sec": 385.6,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D5.xlsx",
+    "Experiment": "Exp1_Baseline_Fixed",
+    "RMSE_Phi": 1.242695,
+    "RMSE_Theta": 0.054051,
+    "RMSE_Psi": 0.337419,
+    "Avg_RMSE": 0.544722,
+    "Time_sec": 33.4,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D5.xlsx",
+    "Experiment": "Exp2_Hyperparam_Tuned",
+    "RMSE_Phi": 0.544261,
+    "RMSE_Theta": 0.065002,
+    "RMSE_Psi": 0.459347,
+    "Avg_RMSE": 0.356203,
+    "Time_sec": 29.6,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D5.xlsx",
+    "Experiment": "Exp3_Deeper_Arch",
+    "RMSE_Phi": 0.363209,
+    "RMSE_Theta": 0.079735,
+    "RMSE_Psi": 0.444537,
+    "Avg_RMSE": 0.295827,
+    "Time_sec": 71.4,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D5.xlsx",
+    "Experiment": "Exp4_Bidirectional",
+    "RMSE_Phi": 0.413848,
+    "RMSE_Theta": 0.062912,
+    "RMSE_Psi": 0.445306,
+    "Avg_RMSE": 0.307355,
+    "Time_sec": 40.2,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D5.xlsx",
+    "Experiment": "Exp5_Output_Normalization",
+    "RMSE_Phi": 0.575327,
+    "RMSE_Theta": 0.038024,
+    "RMSE_Psi": 0.311396,
+    "Avg_RMSE": 0.308249,
+    "Time_sec": 26.6,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D5.xlsx",
+    "Experiment": "Exp6_Sliding_Window",
+    "RMSE_Phi": 0.223187,
+    "RMSE_Theta": 0.053406,
+    "RMSE_Psi": 0.43209,
+    "Avg_RMSE": 0.236228,
+    "Time_sec": 63.0,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D5.xlsx",
+    "Experiment": "Exp7_Combined_Best",
+    "RMSE_Phi": 0.678665,
+    "RMSE_Theta": 0.059697,
+    "RMSE_Psi": 0.271029,
+    "Avg_RMSE": 0.336464,
+    "Time_sec": 314.3,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D5.xlsx",
+    "Experiment": "Exp8_BiLSTM_Dense",
+    "RMSE_Phi": 0.407278,
+    "RMSE_Theta": 0.046334,
+    "RMSE_Psi": 0.243623,
+    "Avg_RMSE": 0.232412,
+    "Time_sec": 442.1,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D6.xlsx",
+    "Experiment": "Exp1_Baseline_Fixed",
+    "RMSE_Phi": 0.967105,
+    "RMSE_Theta": 0.204925,
+    "RMSE_Psi": 1.118448,
+    "Avg_RMSE": 0.763493,
+    "Time_sec": 33.8,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D6.xlsx",
+    "Experiment": "Exp2_Hyperparam_Tuned",
+    "RMSE_Phi": 0.958504,
+    "RMSE_Theta": 0.215412,
+    "RMSE_Psi": 1.171636,
+    "Avg_RMSE": 0.781851,
+    "Time_sec": 23.7,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D6.xlsx",
+    "Experiment": "Exp3_Deeper_Arch",
+    "RMSE_Phi": 0.869861,
+    "RMSE_Theta": 0.264061,
+    "RMSE_Psi": 1.083007,
+    "Avg_RMSE": 0.738976,
+    "Time_sec": 65.8,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D6.xlsx",
+    "Experiment": "Exp4_Bidirectional",
+    "RMSE_Phi": 0.989779,
+    "RMSE_Theta": 0.189815,
+    "RMSE_Psi": 1.023991,
+    "Avg_RMSE": 0.734528,
+    "Time_sec": 46.4,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D6.xlsx",
+    "Experiment": "Exp5_Output_Normalization",
+    "RMSE_Phi": 0.77061,
+    "RMSE_Theta": 0.218073,
+    "RMSE_Psi": 1.150517,
+    "Avg_RMSE": 0.713067,
+    "Time_sec": 31.2,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D6.xlsx",
+    "Experiment": "Exp6_Sliding_Window",
+    "RMSE_Phi": 0.936625,
+    "RMSE_Theta": 0.28694,
+    "RMSE_Psi": 1.122159,
+    "Avg_RMSE": 0.781908,
+    "Time_sec": 88.9,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D6.xlsx",
+    "Experiment": "Exp7_Combined_Best",
+    "RMSE_Phi": 1.042107,
+    "RMSE_Theta": 0.328593,
+    "RMSE_Psi": 1.119006,
+    "Avg_RMSE": 0.829902,
+    "Time_sec": 379.9,
+    "Status": "OK"
+  },
+  {
+    "Dataset": "D6.xlsx",
+    "Experiment": "Exp8_BiLSTM_Dense",
+    "RMSE_Phi": 0.912592,
+    "RMSE_Theta": 0.215382,
+    "RMSE_Psi": 1.065831,
+    "Avg_RMSE": 0.731268,
+    "Time_sec": 14707.2,
+    "Status": "OK"
+  }
+]
